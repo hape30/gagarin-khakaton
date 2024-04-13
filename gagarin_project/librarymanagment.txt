@@ -1,0 +1,11 @@
+1. requests
+2. sqlite3
+3. flask 
+4. flask_restful  
+5. os
+5. sqlite3  
+6. json 
+7. requests 
+8. yandexgptlite  
+9. sys
+10. io
